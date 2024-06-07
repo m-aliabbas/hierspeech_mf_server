@@ -13,6 +13,8 @@ pip install -r requirements.txt
 # Download pretrained weights
 1. You need to download pretrained weights from following url:
 
+https://drive.google.com/file/d/1m2y6i9PjU7s5qZFUHD-qPI5qUR8E-iht/view?usp=sharing
+
 2. After downloading weights; extract them.
 
 3. Paste the logs/ folder (it will be containing weights to your DIR).
